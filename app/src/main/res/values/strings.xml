@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="titulo_CreacioAdan">Pintura Renaciiente</string>
+    <string name="titulo_mona_lisa">La Gioconda</string>
+    <string name="titulo_LaUltimaCena">La ultima Cena</string>
+    <string name="titulo_NocheEstrella">Noche y estrellas</string>
+
+    <string name="artista_Miguel_qngel">Miguel Angel</string>
+    <string name="artista_LeoVinci">Leonardo da Vinci</string>
+    <string name="artista_LeVinci">Leonardo da Vinci</string>
+    <string name="artista_Vicente">Vincent Van Gogh</string>
+
+    <string name="button_previous">Atras</string>
+    <string name="button_next">Siguiente</string>
+</resources>
